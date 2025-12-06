@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm  
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=06F72F&center=true&vCenter=true&width=500&lines=Muskan+Khan" />
+# 👋 Hi,  
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=06F72F&center=true&vCenter=true&width=500&lines=I+am+Muskan+Khan" />
 
 ### 💻 Aspiring Software Developer | Python & C++ Enthusiast | Tech Explorer
 
