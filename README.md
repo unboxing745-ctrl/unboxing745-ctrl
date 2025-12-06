@@ -1,9 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm **Muskan Khan**  
+# 👋 Hi, I'm  
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=06F72F&center=true&vCenter=true&width=500&lines=Muskan+Khan" />
+
 ### 💻 Aspiring Software Developer | Python & C++ Enthusiast | Tech Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=06F72F&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Universe!;Python+%7C+C%2B%2B+%7C+Web+Dev+Learner;Always+Building+%26+Always+Growing;Turning+Ideas+Into+Reality+💡✨" />
+
+</div>
 
 ---
 
@@ -88,9 +92,8 @@ Git • GitHub • VS Code • Linux • Figma • Firebase
 # 🌐 **Let's Connect**
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/mkha9511"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muskanjkhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -102,6 +105,3 @@ Git • GitHub • VS Code • Linux • Figma • Firebase
 ---
 
 ⭐ *If you like my work, consider giving a star — it motivates a lot!* ⭐
-
-</div>
-
